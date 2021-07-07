@@ -1,4 +1,4 @@
-# Geophysical Tutorial Machine Learning Contest 2016
+# Classificação de litofácies através do algoritmo Support Vector Machine (SVM)
 
 O processo de previsão das propriedades espaciais, principalmente da litologia (litofácies), é decisivo para o sucesso da produção de hidrocarbonetos em reservatórios de petróleo. Essa previsão pode ser guiada pela associação de dados físicos e de sísmica obtidos dos poços. 
 
