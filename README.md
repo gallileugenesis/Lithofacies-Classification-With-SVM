@@ -1,9 +1,9 @@
-# Classificação de litofácies através do algoritmo Support Vector Machine 
+# Lithofacies classification using the Support Vector Machine 
 
-O processo de previsão das propriedades espaciais, principalmente da litologia (litofácies), é decisivo para o sucesso da produção de hidrocarbonetos em reservatórios de petróleo. Essa previsão pode ser guiada pela associação de dados físicos e de sísmica obtidos dos poços. 
+The prediction of the spatial properties, mainly of lithology (lithofacies), is decisive for the success of production in oil reservoirs. This prediction can be guided by the association of physical and seismic data obtained from the wells.
 
-Nesse nosso caso, os recursos serão dados de registro de poço de oito poços de gás. Esses poços já tiveram classes de litofácies atribuídas com base nas descrições de núcleos. Depois de treinar um classificador, vamos usá-lo para atribuir fácies a poços que não foram descritos.
+In this case study, features will be well log data from eight gas wells. These wells have already had lithofacies classes assigned based on core descriptions. After training the classifier will be able to assign facies in the wells that have not lithologic identification.
 
-Esse notebook aplicará a técnica de Machine Learning denominada Support Vector Machine (SVM), para a classificação automática de litofácies de perfis de poço com base nos dados fornecidos no Geophysical Tutorial Machine Learning Contest 2016 (https://github.com/seg/2016-ml-contest).  
+This notebook will apply the Machine Learning technique called Support Vector Machine (SVM), for the automatic classification of lithofacies of well logs based on the data provided in the Geophysical Tutorial Machine Learning Contest 2016  (https://github.com/seg/2016-ml-contest).  
 
-Para mais detalhes sobre SVM: https://en.wikipedia.org/wiki/Support-vector_machine.
+For more details about SVM: https://en.wikipedia.org/wiki/Support-vector_machine.
